@@ -1,5 +1,19 @@
 <div>
-<p>This is term of service</p>
+  <p style="color: red; font-size: 17px; font-weight: 500;">Mục đích sử dụng:</p>
+  <p>Phần mềm phục vụ nghiên cứu và học tập. Có chức năng backup token để sử dụng sau này. Phần mềm chỉ được phép thao tác trên dữ liệu chính chủ của người sử dụng.</p>
+  <br>
+  <p style="color: red; font-size: 17px; font-weight: 500;">Sử dụng Dịch vụ của chúng tôi:</p>
+  <p>Người sử dụng phải tuân thủ mọi chính sách chúng tôi đã cung cấp cho bạn trong phạm vi Dịch vụ. Không được sử dụng trái phép Dịch vụ của chúng tôi.  Bạn chỉ có thể sử dụng Dịch vụ của chúng tôi theo như được luật pháp cho phép, không sử dụng Dịch vụ của chúng tôi nhằm mục đích vi phạm pháp luật. Chịu trách nhiệm về những vấn đề phát sinh khi sử dụng Dịch vụ của chúng tôi, nếu sử dụng sai quy định. Bạn không được sử dụng nội dung từ Dịch vụ của chúng tôi trừ khi bạn được chủ sở hữu nội dung đó cho phép hoặc được luật pháp cho phép. Các điều khoản này không cấp cho bạn quyền sử dụng bất kỳ thương hiệu hoặc logo nào được sử dụng trong Dịch vụ của chúng tôi.</p>
+  
+  Việc bạn sử dụng Dịch vụ của chúng tôi không có nghĩa là bạn được sở hữu bất cứ các quyền sở hữu trí tuệ nào đối với Dịch vụ của chúng tôi hoặc nội dung mà bạn truy cập. Bạn không được sử dụng nội dung từ Dịch vụ của chúng tôi trừ khi bạn được chủ sở hữu nội dung đó cho phép hoặc được luật pháp cho phép. Các điều khoản này không cấp cho bạn quyền sử dụng bất kỳ thương hiệu hoặc logo nào được sử dụng trong Dịch vụ của chúng tôi.</p>
+  <br>
+  <p style="color: red; font-size: 17px; font-weight: 500;">Trách nhiệm pháp lý:</p>
+  <p>TRONG MỌI TRƯỜNG HỢP, CHÚNG TÔI SẼ KHÔNG CHỊU TRÁCH NHIỆM ĐỐI VỚI BẤT KỲ MẤT MÁT HAY THIỆT HẠI NÀO KHÔNG THỂ DỰ ĐOÁN ĐƯỢC MỘT CÁCH HỢP LÝ.</p>
+  <br>
+  <p style="color: red; font-size: 17px; font-weight: 500;">Giới hạn trách nhiệm khi sử dụng dịch vụ:</p>
+  <p>Khi sử dụng dịch vụ chúng tôi cung cấp, bạn hiểu rằng chúng tôi hoàn toàn không chịu trách nhiệm trực tiếp hoặc gián tiếp về các hoạt động của bạn khi bạn khai thác phần mềm của chúng tôi. Chúng tôi không chịu trách nhiệm pháp lý hay bồi thường cho người dùng đối với các thiệt hại về lợi nhuận, doanh thu… từ việc sử dụng phần mềm của chúng tôi.</p>
+  <br>
+  <p style="color: red; font-size: 17px; font-weight: 500;">Về các Điều khoản này:</p>
+  <p>Chúng tôi có thể sửa đổi các điều khoản này hoặc bất kỳ điều khoản bổ sung nào áp dụng cho một Dịch vụ, chẳng hạn như để phản ánh những thay đổi về luật hoặc những thay đổi về Dịch vụ của chúng tôi. Bạn nên thường xuyên tìm hiểu các điều khoản này. Chúng tôi sẽ đăng thông báo về các sửa đổi đối với các điều khoản này trên các kênh thông tin của chúng tôi. Các thay đổi sẽ không áp dụng hồi tố và sẽ có hiệu lực không sớm hơn mười bốn ngày sau khi các thay đổi đó được đăng. Tuy nhiên, những thay đổi liên quan đến chức năng mới của Dịch vụ hoặc các thay đổi được thực hiện vì lý do pháp lý sẽ có hiệu lực ngay lập tức. Nếu bạn không đồng ý với các điều khoản sửa đổi đối với một Dịch vụ nào đó, bạn nên ngừng sử dụng Dịch vụ đó. Nếu có sự mâu thuẫn giữa các điều khoản này và các điều khoản bổ sung, thì các điều khoản bổ sung sẽ được ưu tiên áp dụng đối với trường hợp mâu thuẫn đó. Các điều khoản này chi phối mối quan hệ giữa chúng tôi và bạn. Các điều khoản này không tạo ra bất kỳ quyền thụ hưởng nào cho bên thứ ba. Nếu bạn không tuân thủ các điều khoản này và chúng tôi không hành động ngay, điều này không có nghĩa là chúng tôi đang từ bỏ bất kỳ các quyền nào mà chúng tôi có thể có (chẳng hạn như hành động trong tương lai). Nếu thực tế cho thấy một điều khoản cụ thể nào đó là không thể thực thi, điều này sẽ không làm ảnh hưởng đến bất kỳ các điều khoản nào khác. Để tìm hiểu thông tin về cách liên hệ với chúng tôi, vui lòng truy cập trang liên hệ của chúng tôi.</p>
 </div>
-
 <p style="display: none">success</p>
